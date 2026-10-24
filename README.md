@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./src/img.gif"  width="80%" />
+  <img src="./src/img.gif"  width="50%" />
 </p>
 
 <h1 align="left">Hi, i'm Cndxe 👋 !</h1>
